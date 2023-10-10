@@ -1,0 +1,38 @@
+-Eliminación Autor-
+Fecha: 10/10/2023 14:56:43
+ID: 19
+Nombre: Probando
+Apellido: 123
+ 
+-Creacion Autor-
+Fecha: 10/10/2023 14:57:25
+Nombre: Prueba
+Apellido: q
+ 
+-Modificación Autor-
+Fecha: 10/10/2023 14:57:39
+ID: 24
+Nombre Antiguo: Prueba
+Apellido Antiguo: q
+Nombre Nuevo: Prueba
+Apellido Nuevo: qwww
+ 
+-Creacion Blog-
+Fecha: 10/10/2023 14:58:03
+ID Autor: 24
+Texto: Probando 123
+ 
+-Modificación Blog-
+Fecha: 10/10/2023 14:58:22
+ID Blog: 19
+Texto Antiguo: Probando 123
+Texto Nuevo: Probando 123211212121
+ID Autor Antiguo: 24
+ID Autor Nuevo: 1
+ 
+-Eliminación Blog-
+Fecha: 10/10/2023 14:58:33
+ID Blog: 19
+Texto: Probando 123211212121
+ID Autor: 1
+ 
